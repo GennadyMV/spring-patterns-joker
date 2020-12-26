@@ -19,16 +19,16 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.naya</groupId>
-            <artifactId>joker-corona-legacy</artifactId>
-            <version>1.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.epam</groupId>
-            <artifactId>spring-patterns-joker-starter</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.naya</groupId>-->
+<!--            <artifactId>joker-corona-legacy</artifactId>-->
+<!--            <version>1.0</version>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>com.epam</groupId>-->
+<!--            <artifactId>spring-patterns-joker-starter</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
